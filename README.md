@@ -1,0 +1,1 @@
+This is my first Odin project, and it's about recipes. I will demonstrate basic git and web development knowledge and best practices.
